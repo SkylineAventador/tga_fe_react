@@ -48,7 +48,7 @@ packages:
   /axios/0.26.1:
     resolution: {integrity: sha512-fPwcX4EvnSHuInCMItEhAGnaSEXRBjtzh9fOtsE6E1G6p7vl7edEeZe11QHf18+6+9gR5PbKV/sGKNaD8YaMeA==, tarball: https://repo.plus4u.net/operatorGate/repository/public-javascript/axios/-/axios-0.26.1.tgz}
     dependencies:
-      follow-redirects: 1.15.1
+      follow-redirects: 1.15.2
     transitivePeerDependencies:
       - debug
     dev: false
@@ -238,8 +238,8 @@ packages:
       - supports-color
     dev: false
 
-  /follow-redirects/1.15.1:
-    resolution: {integrity: sha512-yLAMQs+k0b2m7cVxpS1VKJVvoz7SS9Td1zss3XRwXj+ZDH00RJgnuLx7E44wx02kQLrdM3aOOy+FpzS7+8OizA==, tarball: https://repo.plus4u.net/operatorGate/repository/public-javascript/follow-redirects/-/follow-redirects-1.15.1.tgz}
+  /follow-redirects/1.15.2:
+    resolution: {integrity: sha512-VQLG33o04KaQ8uYi2tVNbdrWp1QWxNNea+nmIB4EVM28v0hmP17z7aG1+wAkNzVq4KeXTq3221ye5qTJP91JwA==, tarball: https://repo.plus4u.net/operatorGate/repository/public-javascript/follow-redirects/-/follow-redirects-1.15.2.tgz}
     engines: {node: '>=4.0'}
     peerDependencies:
       debug: '*'
